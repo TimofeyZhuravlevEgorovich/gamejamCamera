@@ -74,9 +74,13 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Platform/*
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Starter Content
 Content/StarterContent/*
 =======
 StarterContent/*
 >>>>>>> 0d71188d3462eefefbb86b81dd10fcc0641ccb56
+=======
+Content/StarterContent/*
+>>>>>>> f7e32f40c0de533db32ed8281c7693d0f79db4b1
